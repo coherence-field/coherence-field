@@ -1,3 +1,8 @@
+---
+layout: default
+---
+
+# Coherence Field Theory
 # Coherence Field Theory
 
 Coherence Field Theory is a structural discipline concerned with architecture–field alignment, drift mechanics, and the conditions that allow coherence to be maintained under interaction.
